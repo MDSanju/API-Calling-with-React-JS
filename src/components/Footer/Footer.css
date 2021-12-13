@@ -1,0 +1,15 @@
+.footer {
+    background-color: rgb(59 247 247);
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.footer h1 {
+    color: #333;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.footer p {
+    color: #111;
+}
